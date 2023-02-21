@@ -1,0 +1,32 @@
+# Degree
+- degree: PhD
+  uni: Delft University of Technology
+  major: Computer Graphics and Visualization
+  url: https://graphics.tudelft.nl/
+  year: Oct. 2012 &mdash; Dec. 2017
+  thesis:
+    title: Comparative &amp; Ensemble Visualization of Diffusion Tensor Fields
+    link: https://doi.org/10.4233/uuid:5b0da969-6e43-4cfa-bd33-09494ecfe199
+    advisors:
+      - name: Prof. A. Vilanova
+        url: https://www.tue.nl/en/research/researchers/anna-vilanova/
+      - name: Prof. E. Eisemann
+        url: https://graphics.tudelft.nl/~eisemann/
+
+- degree: Master
+  uni: Beihang University
+  major: Computer Aided Design
+  url: https://www.me.buaa.edu.cn/
+  year: Sep. 2009 &mdash; June 2012
+  thesis:
+    title: GPU-based Acceleration Techniques for Virtual Orthopedic Surgery
+    advisors:
+      - name: Prof. P. XI
+        url: https://www.me.buaa.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1071&wbnewsid=2528
+
+# Degree
+- degree: Bachelor
+  uni: Beihang University
+  major: Mechanical Engineering and Automation
+  url: https://www.me.buaa.edu.cn/
+  year: Sep. 2005 &mdash; July 2009
